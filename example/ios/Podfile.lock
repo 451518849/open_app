@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - open_app (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - open_app (from `.symlinks/plugins/open_app/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  open_app:
+    :path: ".symlinks/plugins/open_app/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  open_app: 7bf28185129e7cbcfc92a925da74b4fb47358eca
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.11.2
